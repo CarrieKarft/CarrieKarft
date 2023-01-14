@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarrieKarft
-- 👀 I’m interested in learning more about web development
-- 🌱 I’m currently learning HTML and CSS
+- 👀 I am a student at Flatiron School
+- 🌱 I’m currently learning JavaScript
 
 
 
